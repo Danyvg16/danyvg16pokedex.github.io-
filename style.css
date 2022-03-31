@@ -1,0 +1,144 @@
+body {
+    background-image: url(/city.jpg) ;  /* fallback for old browsers */
+    background-image: -webkit-linear-gradient(to right, url(/city.jpg));  /* Chrome 10-25, Safari 5.1-6 */
+    background-image: linear-gradient(to right,url(city.jpg)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#logo {
+    height: 80px;
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    margin: 0;
+}
+
+.hw {
+    position: absolute;
+    right: 40px;
+}
+
+#pokeImage {
+    height: 150px;
+    width: 100%;
+    margin: auto;
+}
+
+.sectionPoke {
+    border-radius: 10px;
+    border: 5px solid black;
+    padding: 5px;
+    background: #c6e3ec;
+    margin-bottom: 10px;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border-radius: 10px;
+    border: 5px solid #000;
+    background: #a10404;
+}
+
+
+.infoSection {
+    margin: 10px;
+    border-radius: 5px;
+    background: #fff;
+    padding: 10px;
+}
+
+.fa-solid {
+    font-size: 100px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+#type1, #type2 {
+    font-size: 28px;
+}
+
+.progress {
+    margin-top: 5px;
+}
+
+.normal {
+    background: #c51843;
+}
+
+.fighting {
+    background: #FF6A6A;
+}
+
+.flying {
+    background: #1cbdda;
+}
+.poison {
+    background: #CC88BB;
+}
+.ground {
+    background: #725b3c;
+}
+.rock {
+    background: #CD853F;
+}
+.bug {
+    background: #99CC33;
+}
+.ghost {
+    background: #778899;
+}
+.steel {
+    background: #cccccc59;
+}
+.fire {
+    background: #FF7F00;
+}
+.water {
+    background: #05476d;
+}
+.grass {
+    background: #55ab62;
+}
+.electric {
+    background: #FFD700;
+}
+.psychic {
+    background: #FFB5C5;
+}
+.ice {
+    background: #ADD8E6;
+}
+.dragon {
+    background: #AB82FF;
+}
+
+.dark {
+    background: #202f4e;
+}
+.fairy {
+    background: #FFB0FF;
+}
+
+.badge {
+    width: 120px;
+}
+
+#type1, #type2 {
+    font-size: 24px;
+    
+}
+
+.table {
+    margin: 0;
+}
+
+.list-group {
+    height: 450px;
+    overflow-y: scroll;
+}
