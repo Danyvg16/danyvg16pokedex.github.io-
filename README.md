@@ -1,5 +1,3 @@
-# danyvg16pokedex.github.io-
-
 # Practica JavaScript Pokedex
 Esta rama esta destinada para la Prácticas de JavaScript de Launch X Mision Frontend JS 
 Caso: Pokedex
