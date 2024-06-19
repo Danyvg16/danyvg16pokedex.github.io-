@@ -1,8 +1,5 @@
 # danyvg16pokedex.github.io-
 
-# Mision-Frontend-JS
-# Semana 4
-# Daniela Villagran Galvan
 # Practica JavaScript Pokedex
 Esta rama esta destinada para la Prácticas de JavaScript de Launch X Mision Frontend JS 
 Caso: Pokedex
